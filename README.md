@@ -1,5 +1,8 @@
 # Starter Firebot Custom Script in Typescript
 
+### Goals
+1. flip coin 
+
 ### Setup
 1. Create a new repo based off this template (Click "Use this Template" above) or simply fork it
 2. `npm install`
